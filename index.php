@@ -1,5 +1,3 @@
 <?php
-echo "TEST!";
-echo "!!!";
-echo "!!!1";
-echo "!!!1";
+$a = new Data();
+echo $a;
